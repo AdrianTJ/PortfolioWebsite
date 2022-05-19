@@ -1,11 +1,10 @@
 {
-  "name": "liveterm",
+  "name": "liveterm2",
   "version": "0.1.0",
   "license": "MIT",
   "author": {
-    "name": "Vincent Wu",
-    "url": "https://cveinnt.com",
-    "email": "contact@wensenwu.com"
+    "name": "Adrian TJ",
+    "url": "https://adriantj.github.io/"
   },
   "scripts": {
     "dev": "next dev",
