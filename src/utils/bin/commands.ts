@@ -39,11 +39,6 @@ export const resume = async (args: string[]): Promise<string> => {
   return 'Opening resume...';
 };
 
-export const readme = async (args: string[]): Promise<string> => {
-  window.open(`${config.readmeUrl}`);
-  return 'Opening readme...';
-};
-
 // Contact
 export const email = async (args: string[]): Promise<string> => {
   window.open(`mailto:${config.email}`);
