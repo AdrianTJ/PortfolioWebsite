@@ -1,21 +1,17 @@
 {
   "readmeUrl": "https://github.com/AdrianTJ/LiveTerm/blob/main/README.md",
   "title": "ATJ's Portfolio",
-  "name": "Adrian TJ",
+  "name": "AdrianTJ",
   "ascii": "liveterm",
   "social": {
     "github": "AdrianTJ",
     "linkedin": "adrian-tj"
   },
-  "email": "contact@email.com",
-  "ps1_hostname": "liveterm",
-  "ps1_username": "visitor",
+  "email": "adrian.tame.jacobo@gmail.com",
+  "ps1_hostname": "AdrianTJs_Portfolio",
+  "ps1_username": "guest",
   "repo": "https://github.com/AdrianTJ/LiveTerm",
-  "resume_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Resume.pdf",
-  "donate_urls": {
-    "paypal": "https://paypal.me/cveinnt",
-    "patreon": "https://patreon.com/cveinnt"
-  },
+  "resume_url": "https://github.com/AdrianTJ/PortfolioWebsite/blob/main/AdrianCV.pdf",
   "colors": {
     "light": {
       "background": "#f9f9f9",
@@ -28,7 +24,7 @@
     },
     "dark": {
       "background": "#282a36",
-      "foreground": "#f8f8f2",
+      "foreground": "#f1f1f1",
       "yellow": "#ffb86c",
       "green": "#50fa7b",
       "gray": "#bd93f9",
